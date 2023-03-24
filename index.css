@@ -1,0 +1,9 @@
+.image{
+    background-image: url(./assets/images/parlou.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    width: 20rem;
+    height: 32rem;
+    border: 2px solid green;
+    background-position: center;
+}
